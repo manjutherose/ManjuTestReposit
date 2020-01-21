@@ -1,0 +1,72 @@
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[main] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[main] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC2: Starting Testcase2 in AppTest
+[main] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[main] FATAL ManjuTest.ManjuTest.AppTest  - TC2:fatal
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC2:Executing finally block
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC3: Starting Testcase3 in AppTest
+[main] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[main] FATAL ManjuTest.ManjuTest.AppTest  - TC3:fatal
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC3:Executing finally block
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[main] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[main] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC2: Starting Testcase2 in AppTest
+[main] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[main] FATAL ManjuTest.ManjuTest.AppTest  - TC2:fatal
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC2:Executing finally block
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC3: Starting Testcase3 in AppTest
+[main] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[main] FATAL ManjuTest.ManjuTest.AppTest  - TC3:fatal
+[main] INFO  ManjuTest.ManjuTest.AppTest  - TC3:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC2: Starting Testcase2 in AppTest
+[TestNG-test=publixprov1TestSet-2] INFO  ManjuTest.ManjuTest.AppTest  - TC3: Starting Testcase3 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-2] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC2:fatal
+[TestNG-test=publixprov1TestSet-2] FATAL ManjuTest.ManjuTest.AppTest  - TC3:fatal
+[TestNG-test=publixprov1TestSet-2] INFO  ManjuTest.ManjuTest.AppTest  - TC3:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC2:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[TestNG-test=publixprov1TestSet-2] INFO  ManjuTest.ManjuTest.AppTest  - TC3: Starting Testcase3 in AppTest
+[TestNG-test=publixprov1TestSet-2] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-2] FATAL ManjuTest.ManjuTest.AppTest  - TC3:fatal
+[TestNG-test=publixprov1TestSet-2] INFO  ManjuTest.ManjuTest.AppTest  - TC3:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC2: Starting Testcase2 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC2:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC2:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1: Starting Testcase1 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC1:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC1:Executing finally block
+[TestNG-test=publixprov1TestSet-2] INFO  ManjuTest.ManjuTest.AppTest  - TC3: Starting Testcase3 in AppTest
+[TestNG-test=publixprov1TestSet-2] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-2] FATAL ManjuTest.ManjuTest.AppTest  - TC3:fatal
+[TestNG-test=publixprov1TestSet-2] INFO  ManjuTest.ManjuTest.AppTest  - TC3:Executing finally block
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC2: Starting Testcase2 in AppTest
+[TestNG-test=publixprov1TestSet-1] ERROR ManjuTest.ManjuTest.AppTest  - demo
+[TestNG-test=publixprov1TestSet-1] FATAL ManjuTest.ManjuTest.AppTest  - TC2:fatal
+[TestNG-test=publixprov1TestSet-1] INFO  ManjuTest.ManjuTest.AppTest  - TC2:Executing finally block
